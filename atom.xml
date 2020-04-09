@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T05:26:21.754Z</updated>
+  <updated>2020-04-09T11:19:29.806Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vscode</title>
+    <link href="http://yoursite.com/2020/04/09/vscode/"/>
+    <id>http://yoursite.com/2020/04/09/vscode/</id>
+    <published>2020-04-09T11:13:31.023Z</published>
+    <updated>2020-04-09T11:19:29.806Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;vscode-配置c-c-运行环境&quot;&gt;&lt;a href=&quot;#vscode-配置c-c-运行环境&quot; class=&quot;headerlink&quot; title=&quot;vscode 配置c/c++ 运行环境&quot;&gt;&lt;/a&gt;vscode 配置c/c++
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
