@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T14:23:24.523Z</updated>
+  <updated>2020-04-09T14:27:37.594Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>VsCode</title>
+    <title>VsCode 配置 C/C++ 运行环境</title>
     <link href="http://yoursite.com/2020/04/09/VsCode/"/>
     <id>http://yoursite.com/2020/04/09/VsCode/</id>
-    <published>2020-04-09T14:07:46.277Z</published>
-    <updated>2020-04-09T14:23:24.523Z</updated>
+    <published>2020-04-09T14:07:46.000Z</published>
+    <updated>2020-04-09T14:27:37.594Z</updated>
     
     <summary type="html">
     
@@ -29,16 +29,16 @@
       
         
         
-          &lt;hr&gt;
-&lt;p&gt;title: VsCode 配置 C/C++ 运行环境&lt;br&gt;date: 2020-04-09 22:07:46&lt;br&gt;tags:&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerlink&quot;
+          &lt;h3 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerlink&quot; title=&quot;安装环境&quot;&gt;&lt;/a&gt;安装环境&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;安装 vscode&lt;br&gt;官网: &lt;a
         
       
     
     </summary>
     
     
+    
+      <category term="vscode c/c++" scheme="http://yoursite.com/tags/vscode-c-c/"/>
     
   </entry>
   
