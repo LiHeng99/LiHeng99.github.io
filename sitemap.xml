@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/schedule/index.html</loc>
+    
+    <lastmod>2020-04-09T07:03:37.519Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/sitemap/index.html</loc>
+    
+    <lastmod>2020-04-09T07:03:08.738Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/archives/index.html</loc>
+    
+    <lastmod>2020-04-09T07:02:52.921Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/commonweal/index.html</loc>
+    
+    <lastmod>2020-04-09T07:02:17.630Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-04-09T06:24:38.046Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-04-09T05:58:58.217Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-04-09T05:58:01.185Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/09/hello-world/</loc>
+    
+    <lastmod>2020-04-09T05:26:21.754Z</lastmod>
+    
+  </url>
+  
+</urlset>
