@@ -23,13 +23,13 @@
     <url>/2020/04/09/vscode/</url>
     <content><![CDATA[<h1 id="vscode-配置c-c-运行环境"><a href="#vscode-配置c-c-运行环境" class="headerlink" title="vscode 配置c/c++ 运行环境"></a>vscode 配置c/c++ 运行环境</h1><h3 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h3><ul>
 <li>安装 vscode<br>官网: <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">https://code.visualstudio.com/</a></li>
-<li>安装 gcc<br>官网: <a href="http://mingw.org/" target="_blank" rel="noopener">http://mingw.org/</a></li>
+<li>安装 Mingw 编译器<br>官网: <a href="http://mingw.org/" target="_blank" rel="noopener">http://mingw.org/</a></li>
 </ul>
-<ol start="3">
-<li>打开 vscode 安装插件<ol>
-<li>s</li>
-</ol>
-</li>
+<ul>
+<li><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3></li>
+</ul>
+<ol>
+<li>中文插件 搜索 chinese<br><img src="https://D:/blog/public/images/1-1" alt="blockchain"></li>
 </ol>
 ]]></content>
   </entry>
