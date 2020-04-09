@@ -19,15 +19,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>VsCode 配置 C/C++ 运行环境</title>
-    <url>/2020/04/09/vscode/</url>
-    <content><![CDATA[<h3 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h3><ul>
+    <title>VsCode</title>
+    <url>/2020/04/09/VsCode/</url>
+    <content><![CDATA[<hr>
+<p>title: VsCode 配置 C/C++ 运行环境<br>date: 2020-04-09 22:07:46<br>tags:</p>
+<hr>
+<h3 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h3><ul>
 <li>安装 vscode<br>官网: <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">https://code.visualstudio.com/</a></li>
 <li>安装 Mingw 编译器<br>官网: <a href="http://mingw.org/" target="_blank" rel="noopener">http://mingw.org/</a></li>
 </ul>
 <hr>
 <h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><ol>
-<li>点击左边第五个图标,搜索 Chinese (中文插件),c/c++ 插件(第一个就可以);</li>
+<li>点击左边第五个图标,搜索 Chinese (中文插件),c/c++ 插件(第一个就可以);<img src="/2020/04/09/VsCode/%E4%B8%BB%E7%95%8C%E9%9D%A2.bmp" class="" title="This is an 主界面 image"></li>
 </ol>
 ]]></content>
   </entry>
