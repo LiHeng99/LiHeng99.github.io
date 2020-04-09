@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T14:27:37.594Z</updated>
+  <updated>2020-04-09T14:29:57.723Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/04/09/VsCode/"/>
     <id>http://yoursite.com/2020/04/09/VsCode/</id>
     <published>2020-04-09T14:07:46.000Z</published>
-    <updated>2020-04-09T14:27:37.594Z</updated>
+    <updated>2020-04-09T14:29:57.723Z</updated>
     
     <summary type="html">
     
@@ -38,7 +38,7 @@
     
     
     
-      <category term="vscode c/c++" scheme="http://yoursite.com/tags/vscode-c-c/"/>
+      <category term="vscode,c/c++" scheme="http://yoursite.com/tags/vscode-c-c/"/>
     
   </entry>
   
