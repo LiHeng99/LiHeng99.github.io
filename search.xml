@@ -27,9 +27,30 @@
 <li><p>安装 Mingw 编译器<br>官网: <a href="http://mingw.org/" target="_blank" rel="noopener">http://mingw.org/</a><br>添加环境变量<br>命令行 查看版本信息 </p>
 </li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">    gcc -v</span><br><span class="line">    g++ -v </span><br><span class="line">&#96;&#96;&#96; </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">### 安装插件</span><br><span class="line"></span><br><span class="line">* 点击左边第五个图标,搜索 Chinese (中文插件),c&#x2F;c++ 插件(第一个就可以);</span><br><span class="line">&#123;% asset_img img1.png %&#125; </span><br><span class="line"></span><br><span class="line"></span><br><span class="line">### 开始调试</span><br><span class="line">1. 新建工作文件夹,右键用vscode打开</span><br><span class="line"></span><br><span class="line">2. 新建 c 代码 helloworld.c 测试用</span><br><span class="line">&#123;% asset_img img2.png %&#125;</span><br><span class="line">代码如下:</span><br><span class="line">&#96;&#96;&#96;c </span><br><span class="line">   #include&lt;stdio.h&gt;</span><br><span class="line">   #include&lt;stdlib.h&gt;</span><br><span class="line"></span><br><span class="line">   int main()</span><br><span class="line">   &#123;</span><br><span class="line">       printf(&quot;hello world!);</span><br><span class="line"></span><br><span class="line">       system(&quot;pause&quot;);</span><br><span class="line">       return 0;</span><br><span class="line">   &#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight dos"><table><tr><td class="code"><pre><span class="line">gcc -v</span><br><span class="line">g++ -v</span><br></pre></td></tr></table></figure>
+
+
+
+
+<h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><ul>
+<li>点击左边第五个图标,搜索 Chinese (中文插件),c/c++ 插件(第一个就可以);<img src="/2020/04/09/vscode/img1.png" class=""> 
+
+
+</li>
+</ul>
+<h3 id="开始调试"><a href="#开始调试" class="headerlink" title="开始调试"></a>开始调试</h3><ol>
+<li><p>新建工作文件夹,右键用vscode打开</p>
+</li>
+<li><p>新建 c 代码 helloworld.c 测试用</p>
+<img src="/2020/04/09/vscode/img2.png" class="">
+<p>代码如下:</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdlib.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"hello world!);</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">    system("</span>pause<span class="string">");</span></span><br><span class="line"><span class="string">    return 0;</span></span><br><span class="line"><span class="string">&#125;</span></span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
 <p>新建 launch.json</p>
-<pre><code>{
+<pre><code>
+{
     // 使用 IntelliSense 了解相关属性。 
     // 悬停以查看现有属性的描述。
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
