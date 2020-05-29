@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-29T06:47:30.025Z</updated>
+  <updated>2020-05-29T06:54:10.128Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/05/29/Apache/"/>
     <id>http://yoursite.com/2020/05/29/Apache/</id>
     <published>2020-05-29T06:32:41.000Z</published>
-    <updated>2020-05-29T06:47:30.025Z</updated>
+    <updated>2020-05-29T06:54:10.128Z</updated>
     
     <summary type="html">
     
@@ -36,10 +36,12 @@
     </summary>
     
     
-      <category term="-Linux服务器配置" scheme="http://yoursite.com/categories/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/"/>
+      <category term="Linux服务器配置" scheme="http://yoursite.com/categories/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/"/>
     
     
-      <category term="-Apache -Linux" scheme="http://yoursite.com/tags/Apache-Linux/"/>
+      <category term="Apache" scheme="http://yoursite.com/tags/Apache/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
     
   </entry>
   
