@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-10T13:46:56.502Z</updated>
+  <updated>2020-05-29T06:47:30.025Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Apache</title>
+    <link href="http://yoursite.com/2020/05/29/Apache/"/>
+    <id>http://yoursite.com/2020/05/29/Apache/</id>
+    <published>2020-05-29T06:32:41.000Z</published>
+    <updated>2020-05-29T06:47:30.025Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Ubuntu下Apache-安装运行&quot;&gt;&lt;a href=&quot;#Ubuntu下Apache-安装运行&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu下Apache 安装运行&quot;&gt;&lt;/a&gt;Ubuntu下Apache
+        
+      
+    
+    </summary>
+    
+    
+      <category term="-Linux服务器配置" scheme="http://yoursite.com/categories/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="-Apache -Linux" scheme="http://yoursite.com/tags/Apache-Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/28/hello-world/"/>
+    <id>http://yoursite.com/2020/05/28/hello-world/</id>
+    <published>2020-05-28T06:48:47.298Z</published>
+    <updated>2020-04-09T05:26:21.754Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>VsCode 配置 C/C++ 运行环境</title>
@@ -45,29 +95,6 @@
       <category term="vscode" scheme="http://yoursite.com/tags/vscode/"/>
     
       <category term="c/c++" scheme="http://yoursite.com/tags/c-c/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/09/hello-world/"/>
-    <id>http://yoursite.com/2020/04/09/hello-world/</id>
-    <published>2020-04-09T05:26:21.754Z</published>
-    <updated>2020-04-09T05:26:21.754Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   

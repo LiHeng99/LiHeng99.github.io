@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Apache</title>
+    <url>/2020/05/29/Apache/</url>
+    <content><![CDATA[<h2 id="Ubuntu下Apache-安装运行"><a href="#Ubuntu下Apache-安装运行" class="headerlink" title="Ubuntu下Apache 安装运行"></a>Ubuntu下Apache 安装运行</h2><ol>
+<li>准备环境<br>VMware虚拟机<br>linux系统（Ubuntu）  <figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//先获取管理员权限</span></span><br><span class="line">sudo su root</span><br></pre></td></tr></table></figure></li>
+<li>执行安装命令  <figure class="highlight c"><table><tr><td class="code"><pre><span class="line">apt-<span class="built_in">get</span> install apache2</span><br></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+      <categories>
+        <category>-Linux服务器配置</category>
+      </categories>
+      <tags>
+        <tag>-Apache -Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2020/04/09/hello-world/</url>
+    <url>/2020/05/28/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
