@@ -73,7 +73,7 @@
     <link href="http://yoursite.com/2020/04/09/vscode/"/>
     <id>http://yoursite.com/2020/04/09/vscode/</id>
     <published>2020-04-09T14:07:46.000Z</published>
-    <updated>2020-04-10T13:46:56.502Z</updated>
+    <updated>2020-05-29T06:56:59.161Z</updated>
     
     <summary type="html">
     
@@ -89,9 +89,7 @@
     </summary>
     
     
-      <category term="编辑器" scheme="http://yoursite.com/categories/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
-    
-      <category term="c/c++" scheme="http://yoursite.com/categories/%E7%BC%96%E8%BE%91%E5%99%A8/c-c/"/>
+      <category term="c/c++" scheme="http://yoursite.com/categories/c-c/"/>
     
     
       <category term="vscode" scheme="http://yoursite.com/tags/vscode/"/>
